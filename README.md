@@ -69,6 +69,4 @@ e-commerce/
 
 ## Ekran Görüntüsü
 
-## 🎬 Proje Tanıtımı
-
 ![COSTY E-Commerce Demo](./assets/e-commerce.gif)
