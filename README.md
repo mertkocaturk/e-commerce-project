@@ -69,4 +69,6 @@ e-commerce/
 
 ## Ekran Görüntüsü
 
-<img width="1280" height="720" alt="Image" src="./assets/e-commerce.gif" />
+## 🎬 Proje Tanıtımı
+
+![COSTY E-Commerce Demo](./assets/e-commerce.gif)
