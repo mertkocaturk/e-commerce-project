@@ -66,6 +66,7 @@ e-commerce/
 ├── cart.html
 ├── db.json
 └── index.html
+```
 
 ## Ekran Görüntüsü
 
