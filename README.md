@@ -66,3 +66,6 @@ e-commerce/
 ├── cart.html
 ├── db.json
 └── index.html
+
+#### Ekran Görüntüsü
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/725dcb52-9c39-481e-a8e9-83c16d708620" />
